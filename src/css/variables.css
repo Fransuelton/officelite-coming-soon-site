@@ -1,0 +1,16 @@
+:root {
+  --color-primary: #5175ff;
+  --color-secondary: #25293a;
+  --color-accent: #829cff;
+  --color-background: #fafafa;
+  --color-text: #333950;
+  --color-text-secondary: #747b95;
+  --color-error: #f05b5b;
+  --color-white: #ffffff;
+
+  --font-size-title: 5.6rem;
+  --font-size-plan-name: 2rem;
+  --font-size-countdown-date: 1.6rem;
+  --font-size-description: 1.8rem;
+  --font-size-text: 1.6rem;
+}
