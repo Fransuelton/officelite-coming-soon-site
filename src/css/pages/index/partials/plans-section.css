@@ -1,0 +1,23 @@
+.plans-section {
+    position: relative;
+  z-index: 0;
+  padding-bottom: 8.2rem;
+}
+
+.plans-section::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background-color: #25293A;
+  z-index: -1;
+}
+
+.plans-cards {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+}
