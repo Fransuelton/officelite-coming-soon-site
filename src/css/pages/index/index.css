@@ -1,0 +1,12 @@
+@import url(./partials/cta-section.css);
+@import url(./partials/plans-section.css);
+@import url(./partials/footer.css);
+
+body {
+    background-color: var(--color-background);
+    background-image: url(../../../assets/images/index/bg-pattern-header.svg);
+    background-position-x: 74.2rem;
+    background-position-y: -34.7rem;
+    background-repeat: no-repeat;
+}
+
